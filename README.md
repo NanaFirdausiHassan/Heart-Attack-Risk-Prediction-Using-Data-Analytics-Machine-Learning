@@ -1,2 +1,2 @@
 # Heart-Attack-Risk-Prediction-Using-Data-Analytics-Machine-Learning
-Analyzed a heart attack risk dataset using statistical analysis and machine learning. Built and evaluated models including logistic regression, LDA, QDA, Naive Bayes, and KNN to identify key risk factors such as age, cholesterol, BMI, diet, blood pressure, and family history.
+This project analyzes a heart attack risk dataset to identify key clinical and lifestyle factors associated with heart attack risk. Using data cleaning, exploratory analysis, and multiple statistical and machine learning models, the study highlights age, cholesterol, BMI, diet, blood pressure, and family history as the strongest predictors. The project demonstrates an end-to-end healthcare analytics workflow.
